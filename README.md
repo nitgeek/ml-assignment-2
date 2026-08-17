@@ -31,7 +31,7 @@ Predict whether a red wine sample is of **good quality** (quality score ≥ 7) o
 
 ## c. GitHub Repository Link
 
-[GitHub Repository](https://github.com/YOUR_USERNAME/ml-assignment-2)
+[GitHub Repository](https://github.com/nitgeek/ml-assignment-2)
 
 ## d. Models Used
 
@@ -67,7 +67,7 @@ The ensemble method's ability to combine multiple decision trees reduces overfit
 
 ## Streamlit App
 
-**Live App**: [Streamlit App Link](https://YOUR_APP_URL.streamlit.app)
+**Live App**: [Streamlit App Link](https://ml-assignment-2-aqbqbce4wirgbvzmqhetye.streamlit.app/)
 
 ### Features:
 - CSV dataset upload for test data
